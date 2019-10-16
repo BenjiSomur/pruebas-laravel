@@ -18,3 +18,6 @@ Route::get('/', function () {
 Route::resource('usuarios', 'UsuarioController');
 
 Route::resource('casas', 'CasaController');
+
+Route::get('dropdownlist', 'DataController@getCountries');
+Route::get('dropdownlist/getstates/{id}','DataController@getStates');

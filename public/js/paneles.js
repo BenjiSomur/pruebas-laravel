@@ -1,6 +1,3 @@
-$(document).ready(function(){
-    $('.toast').toast('show');
-  });
 var close = document.getElementsByClassName("closebtn");
 var i;
 
