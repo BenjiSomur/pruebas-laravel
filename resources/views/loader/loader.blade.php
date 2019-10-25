@@ -3,7 +3,7 @@
 <head>
     <title>Prueba de creación de modelos</title>
     <link rel="stylesheet" type="text/css" href="{{asset('css/effects.css')}}">
-
+    
 
 </head>
 <body>
